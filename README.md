@@ -5,13 +5,13 @@ This is a simple Quiz Application built using Java Swing. The application allows
 
 ## Features
 
-User-friendly GUI built with Java Swing.  
-Start screen where users enter their name before beginning the quiz.   
-10 multiple-choice questions.   
-15-second timer for each question.   
-50-50 lifeline (usable once per quiz session).   
-Score display at the end of the quiz.   
-"Play Again" button to restart the quiz.   
+  User-friendly GUI built with Java Swing.  
+  Start screen where users enter their name before beginning the quiz.   
+  10 multiple-choice questions.   
+  15-second timer for each question.   
+  50-50 lifeline (usable once per quiz session).   
+  Score display at the end of the quiz.   
+  "Play Again" button to restart the quiz.   
 
 ## Installation & Setup
 
@@ -21,5 +21,5 @@ Score display at the end of the quiz.
 4. Compile and run the Java program
 
 ## Requirements 
-1. Java Development Kit (JDK) 8 or later.   
-2.A Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse, or NetBeans) or a command-line environment.
+1. Java Development Kit (JDK) 8 or later.  
+2.A Java-compatible IDE (e.g, Eclipse, or NetBeans) or a command-line environment.
