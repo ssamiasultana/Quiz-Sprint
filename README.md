@@ -21,5 +21,5 @@ This is a simple Quiz Application built using Java Swing. The application allows
 4. Compile and run the Java program
 
 ## Requirements 
-1. Java Development Kit (JDK) 8 or later.   
+1. Java Development Kit (JDK) 8 or later. 
 2.A Java-compatible IDE (e.g, Eclipse, or NetBeans) or a command-line environment.
