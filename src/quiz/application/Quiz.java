@@ -24,7 +24,7 @@ public class Quiz extends JFrame implements ActionListener {
     Quiz(String name) {
         this.name = name;
         
-         // ✅ Reset variables to ensure quiz starts from question 1 when replayed
+         //Reset variables to ensure quiz starts from question 1 when replayed
         count = 0;
         score = 0;
         ans_given = 0;
