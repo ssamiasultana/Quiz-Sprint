@@ -20,13 +20,14 @@ public class Score extends JFrame implements ActionListener {
         
         JLabel heading = new JLabel("<html>Thank you " + name + " for playing <font color='#FBC211'>Quiz</font> <font color='#1E90FE'>Sprint</font></html>");
 
-        heading.setBounds(60, 40, 700, 50);
-        heading.setFont(new Font("Lucida Handwriting", Font.BOLD, 28));
+        heading.setBounds(50, 40, 700, 50);
+        heading.setFont(new Font("Lucida Handwriting", Font.BOLD, 26));
         add(heading);
 
-        JLabel lblscore = new JLabel("Your score is " + score);
+        JLabel lblscore = new JLabel("<html>Your score is <font color='#FF00FF'>" + score + "</font></html>");
+
         lblscore.setBounds(350, 200, 300, 30);
-        lblscore.setFont(new Font("Lucida Handwriting", Font.BOLD, 26));
+        lblscore.setFont(new Font("Lucida Handwriting", Font.BOLD, 24));
         add(lblscore);
         
         JButton submit = new JButton("Play Again");
